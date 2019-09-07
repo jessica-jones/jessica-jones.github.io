@@ -6,6 +6,9 @@ title: National History Day Documentary
 permalink: projects/nhd
 # All dates must be YYYY-MM-DD format!
 ---
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/nhdlogo.png">
+</div>
 
 What is National History Day? 
 ---
@@ -15,8 +18,8 @@ My partner and I made competed at the national national level competition for a 
 
 Researching and Editing 
 ---
-
-I also went above and beyond by buying matching pop art shirts for my partner and I so we had matching outfits during our interviews. 
+Because of our combined interest in art, my partner and I decided to create a documentary about pop art. 
+After months of research, drafting, and editing we had a documentary to present to the world. We also went above and beyond by buying matching pop art shirts so we had matching outfits during our interviews. 
 
 What did I learn?
 ---
