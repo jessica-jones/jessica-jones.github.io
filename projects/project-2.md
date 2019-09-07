@@ -5,7 +5,7 @@ image: images/images.png
 title: Paint Your World Purple!
 permalink: projects/relayforlife
 # All dates must be YYYY-MM-DD format!
-date: 2016-5-15
+date: 2016-05-15
 labels:
   - Teamwork
   - Collaboration
