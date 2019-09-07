@@ -2,24 +2,34 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: Paint Your World Purple!
+permalink: projects/relayforlife
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2016-5-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Teamwork
+  - Collaboration
+  - Working Under Pressure
+  - Relay For Life
+  
+summary: Co-Lead Relay for Life Event 
 ---
+
+What is Relay For Life? 
+---
+It is a fundraising cancer walk in which team members walk around a track to raise money for the American Cancer Society. Each event is volunteer run and can last anywhere from 6 to 24 hours in length, during which each team is asked to have at least one member relaying at all times to signify that cancer never sleeps. Any money raised during the event (activities and games, sale of food) will contribute to event's fundraising goal. Additionally, a memorable Luminaria Ceremony is conducted to honor those in the community who are survivors and those who have lost the battle to cancer.
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+What I did:
+---
+My senior year of high school, I co-led the Relay For Life event at Mililani High School. In preparation for the event, I oversaw logistical requirements, such as ensuring that we had a venue to use as well as the technical equipment to host the event. I led a team of hardworking volunteers in soliciting donations for our event, as well as created and managed sub teams for different components of the event, such as the Survivor’s Dinner, entertainment, and Luminaria Ceremony. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+
+What I learned:
+---
+Organizing an event is very different from participating in it! There is a lot of work and effort involved with planning and hosting an event, as well as recruiting volunteers and motivating them to stay and work for a full day. Nowadays, I am not as quick to judge events that I attend, because I now know how hard they are to put on. 
+
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+You can find out more about Relay For Life [here](https://www.cancer.org/involved/fundraise/relay-for-life.html) 
