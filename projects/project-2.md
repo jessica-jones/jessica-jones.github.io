@@ -11,9 +11,9 @@ labels:
   - Collaboration
   - Working Under Pressure
   - Relay For Life
-  
 summary: Co-Led Relay for Life Event 
 ---
+
 <div class="ui small rounded images">
   <img class="ui image" src="../images/images.png">
 </div>
