@@ -47,22 +47,34 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming Languages and Software Tools",
       "level": "",
       "keywords": [
         "C",
         "C++",
         "Java",
         "Javascript",
+        "Eclipse",
+        "Arduino IDE"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Operating Systems",
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Linux (Ubuntu)",
         "Git/GitHub",
+        "Unix (UH Unix)"
+      ]
+    },
+     {
+      "name": "Graphic Design",
+      "level": "",
+      "keywords": [
+        "Final Cut Pro X",
+        "Canva",
+        "Adobe Illustrator"
       ]
     }
   ],
@@ -126,7 +138,7 @@
       "title": "Valedictorian with Academic and CTE Honor Certificates",
       "date": "2017",
       "awarder": "Mililani High School",
-      "summary": "Valedictorian designation awared for cumulative GPA of 4.00 or above as well meeting requirements of an Honors Certificate. The Career & Technical Education Honors Certificate is awarded to those who complete 2-3 years in a program of study. Academic Honors is awarded to students for completing four credits in both math and science; two of those credits being from an AP class."
+      "summary": "Valedictorian designation awarded for cumulative GPA of 4.00 or above as well meeting requirements of an Honors Certificate. The Career & Technical Education Honors Certificate is awarded to those who complete 2-3 years in a program of study. Academic Honors is awarded to students for completing four credits in both math and science; two of those credits being from an AP class."
     }
   ],
   "references": [
