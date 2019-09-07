@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/nhdlogo.png
 title: National History Day Documentary 
 permalink: projects/nhd
 # All dates must be YYYY-MM-DD format!
