@@ -5,6 +5,13 @@ image: images/nhdlogo.png
 title: National History Day Documentary 
 permalink: projects/nhd
 # All dates must be YYYY-MM-DD format!
+date: 2016-03-15
+labels:
+  - Teamwork
+  - Collaboration
+  - Working Under Pressure
+  - National History Day
+summary: Scripted and Directed National History Documentary about the explorations, encounters, and exchange of pop art. 
 ---
 <div class="ui small rounded images">
   <img class="ui image" src="../images/nhdlogo.png">
