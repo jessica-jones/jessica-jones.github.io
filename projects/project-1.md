@@ -10,7 +10,6 @@ labels:
   - Arduino
   - Arduino IDE 
   - RFID 
-  
 summary: My team and I proposed, designed, and developed an anti-theft backpack which could be unlocked with an RFID key.
 ---
 
