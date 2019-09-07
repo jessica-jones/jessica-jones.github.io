@@ -86,7 +86,13 @@
       "startDate": "",
       "endDate": "",
       "gpa": "",
-      "courses": [
+      "courses": [ "Intro to Computer Science II", 
+                  "Program Structures",  
+                  "Intro to Digital Design", 
+                  "Basic Circuit Analysis I and II (current)", 
+                  "Software Engineering (current)",
+                  "Digital Systems and Computer Design (current)",
+                  "Database Systems (current)"
       ]
     }
   ],
