@@ -16,8 +16,9 @@ My partner and I made competed at the national national level competition for a 
 Researching and Editing 
 ---
 
+I also went above and beyond by buying matching pop art shirts for my partner and I so we had matching outfits during our interviews. 
 
 What did I learn?
 ---
-
+Participating in the National History Day competition helped me to develop my professionalism and improve my communication skills. One of the unique challenges of writing a script for a video, was trying to balance creating a factually correct yet interesting and easily understood message. We solved this by including interviews. I learned what were the 'right' kinds of questions to ask during an interview, as well as how to push an interview in the direction you wanted it to go. 
 
