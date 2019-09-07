@@ -60,7 +60,7 @@
         "Java",
         "Javascript",
         "Eclipse",
-        "Arduino IDE"
+        "Arduino IDE",
       ]
     },
     {
@@ -70,7 +70,7 @@
         "MacOS",
         "Linux (Ubuntu)",
         "Git/GitHub",
-        "Unix (UH Unix)"
+        "Unix (UH Unix)",
       ]
     },
      {
@@ -79,7 +79,7 @@
       "keywords": [
         "Final Cut Pro X",
         "Canva",
-        "Adobe Illustrator"
+        "Adobe Illustrator",
       ]
     }
   ],
@@ -97,7 +97,7 @@
                   "Basic Circuit Analysis I and II (current)", 
                   "Software Engineering (current)",
                   "Digital Systems and Computer Design (current)",
-                  "Database Systems (current)"
+                  "Database Systems (current)",
       ]
     }
   ],
@@ -112,7 +112,7 @@
       "highlights": [
         "Create and update information security documentation, articles, and social media",
         "Assist in the creation of information security presentations",
-        "Research solutions related to information security issues"
+        "Research solutions related to information security issues",
       ]
     }
   ],
@@ -144,13 +144,13 @@
       "title": "Dean's List",
       "date": "Fall 2017",
       "awarder": "College of Natural Science",
-      "summary": "Recognition given to students who earn a cumulative GPA of 3.51 or above."
+      "summary": "Recognition given to students who earn a cumulative GPA of 3.51 or above.",
     },
     {
       "title": "Valedictorian with Academic and CTE Honor Certificates",
       "date": "2017",
       "awarder": "Mililani High School",
-      "summary": "Valedictorian designation awarded for cumulative GPA of 4.00 or above as well meeting requirements of an Honors Certificate. The Career & Technical Education Honors Certificate is awarded to those who complete 2-3 years in a program of study. Academic Honors is awarded to students for completing four credits in both math and science; two of those credits being from an AP class."
+      "summary": "Valedictorian designation awarded for cumulative GPA of 4.00 or above as well meeting requirements of an Honors Certificate. The Career & Technical Education Honors Certificate is awarded to those who complete 2-3 years in a program of study. Academic Honors is awarded to students for completing four credits in both math and science; two of those credits being from an AP class.",
     }
   ],
   "references": [
