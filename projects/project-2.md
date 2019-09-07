@@ -11,7 +11,7 @@ labels:
   - Collaboration
   - Working Under Pressure
   - Relay For Life
-summary: Co-Led Relay for Life Event 
+summary: Co-Led Relay for Life, an American Cancer Society Fundraising Event 
 ---
  
 
