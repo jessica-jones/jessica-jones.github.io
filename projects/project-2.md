@@ -22,6 +22,7 @@ It is a fundraising cancer walk in which team members walk around a track to rai
 A light purple or lavender ribbon is generally used to represent all cancers as a whole. Some relays try to incorporate a theme, usually centered around the color purple, to add some flair to their event. The theme for our event was "Paint Your World Purple".   
 
 <img class="ui medium right floated rounded image" src="../images/images.png">
+
 Image Credit: [American Cancer Society](https://secure.acsevents.org/site/SPageServer?pagename=relay)
 
 What I did:
