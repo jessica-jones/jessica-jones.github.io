@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/Diagram_(2).PNG
 title: Anti-Theft Backpack
-permalink: projects/micromouse
+permalink: projects/anti-theftbackpack
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-08
 labels:
@@ -15,10 +15,8 @@ summary: My team and I proposed, designed, and developed an anti-theft backpack 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/diagram.PNG">
+  <img class="ui image" src="../images/antitheft.PNG">
 </div>
 
 
