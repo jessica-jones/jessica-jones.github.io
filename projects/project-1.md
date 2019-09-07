@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Diagram_(2).PNG
+image: images/diagram.PNG
 title: Anti-Theft Backpack
 permalink: projects/anti-theftbackpack
 # All dates must be YYYY-MM-DD format!
