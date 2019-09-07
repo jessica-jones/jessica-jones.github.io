@@ -2,15 +2,16 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Anti-Theft Backpack
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-08-08
 labels:
-  - Robotics
   - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Arduino IDE 
+  - RFID 
+  
+summary: My team and I proposed, designed, and developed an anti-theft backpack which could be unlocked with an RFID key.
 ---
 
 <div class="ui small rounded images">
@@ -20,25 +21,20 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+Background: 
+---
+During the Fall 2018 semester, Kelsey Fukushima, Taylor Inong, and I designed and created a device which protects a backpack from pickpocketing by sensing when bag is open and alerting wearer with an alarm. 
 
-Here is some code that illustrates how we read values from the line sensors:
+Right off the bat we knew we wanted to create a project that incorporated fashion in some way, because we believed that this would be different from some of the projects that have been completed before in this class. We started looking up project ideas online; we liked the projects that lit up and made sound, so we knew we wanted to include these things into our project. Some of these things included holiday decorations or clothes that lit up. However, we also wanted to create something that had practical use. We came up with the idea of making a device that acted in a similar way to a car alarm for a backpack. The device would alert the owner that the object was being handled in an unauthorized way by emitting an alarm. This alarm could only be deactivated with a key. 
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+Potential Upgrades:
+---
+In the future we may incoroprate different multicolor LEDs; we may use a red LED to show the incorrect key was used, and a green LED to show that the correct key was used. Alternatively, we could use an LCD screen to show more detailed information. 
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+Over the course of the semester, we met weekly; we all relied on each other for different components of the project. I contributed to this project by researching information on existing anti-theft technologies and RFID capabilities, as well as handpicking some of the materials used in the final design. My most meaningful additions were to plan and write some of the code, and to script, record, and edit footage to create the video summary of project. 
+
+You can watch our video on [Youtube](https://youtu.be/lRN41nCLZMQ).
 
 
 
