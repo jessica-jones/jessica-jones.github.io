@@ -19,6 +19,23 @@ I think how you were exposed to a language can influence your preference of prog
 
 Tools:
 ---
+This doesn’t really relate to the programming languages themselves, but I think it is still worth mentioning. One of the things that certainly helped shape my experience programing are the tools I used. My 
+ “Your tools shouldn’t work against you.” 
+I guess it also shows how much the TOOLS you are using can impact your experience
+Vim vs jsfiddle 
+“Your tools shouldn’t work against you” – Dr. Moore 
+
+
+So why would someone like C? 
+---
+Having learned C/C++, I can say with confidence that JavaScript is a lot easier to learn and use. You don’t have to know much about how computer memory works to code in JS, not to the degree that you would to code in C++. There are certain quirks in JavaScript that I like: I like how you can compare not only the value of a variable but the type (using ===), as well as simplify functions.
+
+Some programming languages such as C/C++ give you more control over what you do, but as the Spiderman proverb goes, “with great power comes great responsibility”.  Simply because you can compile something doesn’t mean that it will work like you intended; you have to 
+Is suffering better? Does it make you a better programmer, worthy etc if you suffer? 
+For ppl who are new-ish its approachable 
+Elitism? Now that its becoming a skill that everyone needs to have 
+
+Closing Remarks:  I think it comes down to what you are using it for and personal preference. 
 
 
 
