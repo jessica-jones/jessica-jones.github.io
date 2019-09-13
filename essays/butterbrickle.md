@@ -147,7 +147,7 @@ When you don't have the ability to talk to the person behind the bio, behind the
 
 
 If anything, you can take a page from Eli the Computer Guy's playbook and just default to an equally contextless answer: 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Butter Brickle](https://github.com/jessica-jones/jessica-jones.github.io/blob/master/images/ButterBrickle.PNG)
 
 
 
