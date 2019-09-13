@@ -10,7 +10,7 @@ labels:
   - Javascript
 ---
 
-While learning JavaScript, I started reflecting on my personal experience with learning different programming languages, as well as thinking about what makes people chose to praise one programming language over the other. 
+While learning JavaScript, I started reflecting on my personal experience with learning different programming languages, as well as thinking about what makes people choose to praise one programming language over the other. 
 
 Learning the Language:
 ---
