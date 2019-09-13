@@ -146,7 +146,8 @@ Is it really a comparison? I think B is one to theoretically swipe right on. It'
 When you don't have the ability to talk to the person behind the bio, behind the picture, behind the question, you will only be able to analyse them by the pieces of information they release to the world. The construction of the question becomes the data by which you judge the person - and decide if you want to give them a moment of your hard earned time and expertise. 
 
 
-If anything, you can take a page from Eli the Computer Guy's playbook and just default to an equally contextless answer. 
+If anything, you can take a page from Eli the Computer Guy's playbook and just default to an equally contextless answer: 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
