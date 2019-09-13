@@ -32,7 +32,7 @@ First off, only B is actually a question; which implies it has an answer. "Quest
 B's title is specific, which I think makes it seem more approachable because you know what to do with this inquiry. The structure of B's title stears you to a future answer such as “processing a sorted array is faster because…”. You already know if your efforts are going to be worth anything because you can measure if you've answered the question. It is definitely getting off on the right foot!  
 
 
-Let Me Explain...
+Bio or Goodbye? 
 ---
 
 Let’s say you decide to give them a chance and read their "bio". 
