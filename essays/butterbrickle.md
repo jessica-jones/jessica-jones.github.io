@@ -87,8 +87,53 @@ int main()
  * Without std::sort(data, data + arraySize);, the code runs in 11.54 seconds.
  * With the sorted data, the code runs in 1.93 seconds.
  
- 
+ Initially I thought this might be just a language or compiler anomaly, so I tried Java:
+ ```
+ import java.util.Arrays;
+import java.util.Random;
 
+public class Main
+{
+    public static void main(String[] args)
+    {
+        // Generate data
+        int arraySize = 32768;
+        int data[] = new int[arraySize];
+
+        Random rnd = new Random(0);
+        for (int c = 0; c < arraySize; ++c)
+            data[c] = rnd.nextInt() % 256;
+
+
+        // !!! With this, the next loop runs faster
+        Arrays.sort(data);
+
+
+        // Test
+        long start = System.nanoTime();
+        long sum = 0;
+
+        for (int i = 0; i < 100000; ++i)
+        {
+            // Primary loop
+            for (int c = 0; c < arraySize; ++c)
+            {
+                if (data[c] >= 128)
+                    sum += data[c];
+            }
+        }
+
+        System.out.println((System.nanoTime() - start) / 1000000000.0);
+        System.out.println("sum = " + sum);
+    }
+}
+ ```
+ with a similar but less extreme result.
+
+My first thought was that sorting brings the data into the cache, but then I thought how silly that was because the array was just generated.
+
+* What is going on?
+* Why is processing a sorted array faster than processing an unsorted array? The code is summing up some independent terms, so the order should not matter.
 
 
 
