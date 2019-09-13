@@ -26,6 +26,7 @@ A: [Maximum number of components per activity Android](https://stackoverflow.com
 
 B: [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 ---
+___
 
 First off, only B is actually a question; which implies it has an answer. "Question" A is a statement. It sounds like a google search - the author could just copy and paste it in. It sounds like something that would require you to ask a question for clarification. It sounds like extra work on your part, if you choose to accept it. 
 
@@ -35,7 +36,7 @@ B's title is specific, which I think makes it seem more approachable because you
 Bio or Goodbye? 
 ---
 
-Let’s say you decide to give them a chance and read their "bio". 
+Let’s say you decide to give them a chance and read their "bio".  
 
 A: 
 ---
@@ -135,7 +136,7 @@ My first thought was that sorting brings the data into the cache, but then I tho
 * What is going on?
 * Why is processing a sorted array faster than processing an unsorted array? The code is summing up some independent terms, so the order should not matter.
 
-
+___
 
 Give enough context/info bc you might assume the problem is caused by one thing when it is in fact caused by something else. Another person would be able to find the actual problem bc they have enough info 
 Respectful of peoples’ effort and time to help you (do them a favor); shows maturity 
