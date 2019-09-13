@@ -28,9 +28,9 @@ B: [Why is processing a sorted array faster than processing an unsorted array?](
 ---
 ___
 
-First off, only B is actually a question; which implies it has an answer. "Question" A is a statement. It sounds like a google search - the author could just copy and paste it in. It sounds like something that would require you to ask a question for clarification. It sounds like extra work on your part, if you choose to accept it. 
+A: First off, "Question" A isn't even a question! It sounds like a google search - the author could just copy and paste it in. It sounds like something that would require you to ask a question for clarification. It sounds like extra work on your part, if you choose to accept it. 
 
-B's title is specific, which I think makes it seem more approachable because you know what to do with this inquiry. The structure of B's title stears you to a future answer such as “processing a sorted array is faster because…”. You already know if your efforts are going to be worth anything because you can measure if you've answered the question. It is definitely getting off on the right foot!  
+B: Right off the bat, B hits us with a specific question, which I think makes it seem more approachable because you know what to do with this inquiry. The structure of B's title stears you to a future answer such as “processing a sorted array is faster because…”. You already know if your efforts are going to be worth anything because you can measure if you've answered the question. It is definitely getting off on the right foot!  
 
 
 Bio or Goodbye? 
@@ -137,15 +137,17 @@ My first thought was that sorting brings the data into the cache, but then I tho
 * Why is processing a sorted array faster than processing an unsorted array? The code is summing up some independent terms, so the order should not matter.
 
 ___
+A: A asks a couple questions now, but you are probably still wondering about the details - what aspect of performace are the talking about? At least A is polite and ends with a thank you. 
 
-Give enough context/info bc you might assume the problem is caused by one thing when it is in fact caused by something else. Another person would be able to find the actual problem bc they have enough info 
+B: 
+Effort to help them will be meaningful 
 Respectful of peoples’ effort and time to help you (do them a favor); shows maturity 
 Reciprocation 
 
 
 Verdict:
 ---
-Is it really a comparison? I think B is the better, smarter question. 
+Is it really a comparison? I think B is the better, smarter question (swipe right).  
 
 When you don't have the ability to talk to the person behind the bio, behind the picture, behind the question, you will only be able to analyse them by the pieces of information they release to the world. The construction of the question becomes the data by which you judge the person - and see if they are worthy of an answer. 
 
