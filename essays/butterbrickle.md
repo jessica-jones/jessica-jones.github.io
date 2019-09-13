@@ -38,8 +38,58 @@ Let Me Explain...
 Let’s say you decide to give them a chance and read their "bio". 
 
 A: 
+---
+Is there a limit as to how many components an android activity can hold? And how does it affect the application's performance? Thank you.
+
 
 B: 
+---
+Here is a piece of C++ code that shows some very peculiar behavior. For some strange reason, sorting the data miraculously makes the code almost six times faster:
+```
+#include <algorithm>
+#include <ctime>
+#include <iostream>
+
+int main()
+{
+    // Generate data
+    const unsigned arraySize = 32768;
+    int data[arraySize];
+
+    for (unsigned c = 0; c < arraySize; ++c)
+        data[c] = std::rand() % 256;
+
+
+    // !!! With this, the next loop runs faster.
+    std::sort(data, data + arraySize);
+
+
+    // Test
+    clock_t start = clock();
+    long long sum = 0;
+
+    for (unsigned i = 0; i < 100000; ++i)
+    {
+        // Primary loop
+        for (unsigned c = 0; c < arraySize; ++c)
+        {
+            if (data[c] >= 128)
+                sum += data[c];
+        }
+    }
+
+    double elapsedTime = static_cast<double>(clock() - start) / CLOCKS_PER_SEC;
+
+    std::cout << elapsedTime << std::endl;
+    std::cout << "sum = " << sum << std::endl;
+}
+```
+ * Without std::sort(data, data + arraySize);, the code runs in 11.54 seconds.
+ * With the sorted data, the code runs in 1.93 seconds.
+ 
+ 
+
+
 
 
 Give enough context/info bc you might assume the problem is caused by one thing when it is in fact caused by something else. Another person would be able to find the actual problem bc they have enough info 
@@ -52,6 +102,10 @@ Verdict:
 Is it really a comparison? I think B is the better, smarter question. 
 
 When you don't have the ability to talk to the person behind the bio, behind the picture, behind the question, you will only be able to analyse them by the pieces of information they release to the world. The construction of the question becomes the data by which you judge the person - and see if they are worthy of an answer. 
+
+
+If anything, you can take a page from Eli the Computer Guy's playbook and just default to an equally contextless answer. 
+
 
 
 
