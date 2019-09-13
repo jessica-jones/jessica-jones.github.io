@@ -13,13 +13,13 @@ labels:
 
 What is a good question? I think we intuitively know the answer; if I showed you two questions, you could probably tell me which one was smart and which one was more ... intellectually simple. 
 
-You've probably heard that when meeting people for the first time, we make a lighting fast decision about whether we like them or not. This is especially true on the esteemed dating platform, Tinder, a dating app where you accept/reject a person after judging them by a few picture and a short bio. I think there's a comparison to be made between choosing a date and choosing a question; and in doing so, maybe we can find out what makes a question a smart one? 
+You've probably heard that when meeting people for the first time, we make a lighting fast decision about whether we like them or not. This is especially true on the esteemed dating platform, Tinder, a dating app where you accept/reject a person after judging them by a few pictures and a short bio. I think there's a comparison to be made between choosing a date and choosing a question; and in doing so, maybe we can find out what makes a question a smart one? 
 
 Let's play a game of [StackOverflow](https://stackoverflow.com) Tinder, shall we? 
 
 Start From the Top: 
 --- 
-In leu of a picture; based on the title, which question would you choose? 
+In lieu of a picture; based on the title, which question would you choose? 
 
 A: [Maximum number of components per activity Android](https://stackoverflow.com/questions/57919424/maximum-number-of-components-per-activity-android)
 ---
@@ -29,7 +29,7 @@ B: [Why is processing a sorted array faster than processing an unsorted array?](
 
 First off, only B is actually a question; which implies it has an answer. "Question" A is a statement. It sounds like a google search - the author could just copy and paste it in. It sounds like something that would require you to ask a question for clarification. It sounds like extra work on your part, if you choose to accept it. 
 
-The structure of B's title stears you to a future answer “processing a sorted array is faster because…”. I think this makes the question seem more approachable. It is definitely getting off on the right foot!  
+B's title is specific, which I think makes it seem more approachable because you know what to do with this inquiry. The structure of B's title stears you to a future answer such as “processing a sorted array is faster because…”. You already know if your efforts are going to be worth anything because you can measure if you've answered the question. It is definitely getting off on the right foot!  
 
 
 Let Me Explain...
