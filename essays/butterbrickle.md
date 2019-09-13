@@ -141,7 +141,7 @@ B: Even though B is very wordy, you know by the amount of work that was put into
 
 Verdict:
 ---
-Is it really a comparison? I think B is the better, smarter question (swipe right).  
+Is it really a comparison? I think B is one to theoretically swipe right on. It's the smarter question because; it asks a specific, meaningful question with context and background research. It's the smarter question because it respects its audience. 
 
 When you don't have the ability to talk to the person behind the bio, behind the picture, behind the question, you will only be able to analyse them by the pieces of information they release to the world. The construction of the question becomes the data by which you judge the person - and decide if you want to give them a moment of your hard earned time and expertise. 
 
