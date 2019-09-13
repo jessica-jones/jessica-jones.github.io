@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: What makes a question a Smart one? 
+title: What Is A Smart Question? Butter Brickle
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-12
 labels:
@@ -11,7 +11,7 @@ labels:
   - Life
 ---
 
-What is a good question? I think we intuitively know the answer; if I showed you two questions, you could probably tell me which one was smart and which one was more ... intellectually simple. 
+What is a smart question? I think we intuitively know the answer; if I showed you two questions, you could probably tell me which one was smart and which one was more ... intellectually simple. 
 
 You've probably heard that when meeting people for the first time, we make a lighting fast decision about whether we like them or not. This is especially true on the esteemed dating platform, Tinder, a dating app where you accept/reject a person after judging them by a few pictures and a short bio. I think there's a comparison to be made between choosing a date and choosing a question; and in doing so, maybe we can find out what makes a question a smart one? 
 
