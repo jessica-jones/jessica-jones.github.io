@@ -25,7 +25,7 @@ Right off the bat we knew we wanted to create a project that incorporated fashio
 
 What did I do?
 ---
-<img class="ui medium left floated rounded image" src="../images/diagram.PNG">
+<img class="ui small left floated rounded image" src="../images/antitheft.PNG">
 Over the course of the semester, we met weekly; we all relied on each other for different components of the project. I contributed to this project by researching information on existing anti-theft technologies and RFID capabilities, as well as handpicking some of the materials used in the final design. My most meaningful additions were to plan and write some of the code, and to script, record, and edit footage to create the video summary of project. 
 
 ```
@@ -34,7 +34,7 @@ Over the course of the semester, we met weekly; we all relied on each other for 
 
 What did I learn?  
 ---
-<img class="ui medium right floated rounded image" src="../images/antitheft.PNG">
+<img class="ui medium right floated rounded image" src="../images/diagram.PNG">
 Because of this project, I was introduced to technologies that I have never directly worked with before: Arduino hardware and RFID technology, and the Arduino IDE. It was inspiring to be able to create a functional product without much technical knowledge; it goes to show what can happen with creativity and determination. Additionally, this project changed my perspective on how I interact with the world; I started to notice how my actions were being trained by different feedback, like how the button on a vending machine lights up after I press it. I began look for things that I could incorporate into our device. In the future we may incorporate different multicolor LEDs; we may use a red LED to show the incorrect key was used, and a green LED to show that the correct key was used. Alternatively, we could use an LCD screen to show more detailed information. 
 
 
