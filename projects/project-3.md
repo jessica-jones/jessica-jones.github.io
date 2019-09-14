@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/nhdlogo-white.jpg
+image: images/photo.jpg
 title: National History Day Documentary 
 permalink: projects/nhd
 # All dates must be YYYY-MM-DD format!
@@ -20,7 +20,7 @@ National History Day is a competition in which students from around the world co
 
 My partner and I competed at the national national level competition with a documentary on the explorations, encounters, and exchange of Pop Art.
 
-  <img class="ui small right floated rounded image" src="../images/nhdlogo-white.jpg">
+  <img class="ui small right floated rounded image" src="../images/photo.jpg">
 
 Researching and Editing 
 ---
