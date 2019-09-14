@@ -130,17 +130,6 @@
       ]
     },
     {
-      "organization": "Girl Scouts",
-      "website": "",
-      "position": "Camp Counselor",
-      "startDate": "2015",
-      "endDate": "2017",
-      "summary": "I assisted in the operation of multiple STEM Camps, which the Girl Scouts of Hawaii hosts annually to encourage girls and young women to learn about different STEM topics and career fields.  ",
-      "highlights": [
-          "Design curriculum for and create hands-on activities",
-      ]
-    },
-    {
       "organization": "The Hawaii State Department of Education (HIDOE), Korea Ministry of Education and Institute of APEC Collaborative Education",
       "website": "https://www.facebook.com/eiconcontest/",
       "position": "Mentor for e-ICON World Contest",
@@ -149,8 +138,18 @@
       "summary": "Helped students collaborate to create educational mobile apps",
       "highlights": [
           "Encourage collaboration between teams", 
-           "Assist students in using IDEs such as MIT App Inventor",
-        
+           "Assist students in using IDEs such as MIT App Inventor", 
+      ]
+    },
+        {
+      "organization": "Girl Scouts",
+      "website": "",
+      "position": "Camp Counselor",
+      "startDate": "2015",
+      "endDate": "2017",
+      "summary": "I assisted in the operation of multiple STEM Camps, which the Girl Scouts of Hawaii hosts annually to encourage girls and young women to learn about different STEM topics and career fields.  ",
+      "highlights": [
+          "Design curriculum for and create hands-on activities",
       ]
     }
   ],
