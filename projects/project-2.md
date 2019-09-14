@@ -20,6 +20,7 @@ What is Relay For Life?
 
 A light purple or lavender ribbon is generally used to represent all cancers as a whole. Some relays try to incorporate a theme, usually centered around the color purple, to add some flair to their event. The theme for our event was "Paint Your World Purple".   
 
+
 Image Credit: [American Cancer Society](https://secure.acsevents.org/site/SPageServer?pagename=relay)
 
 What I did:
