@@ -11,9 +11,8 @@ labels:
   - Collaboration
   - Working Under Pressure
   - Relay For Life
-summary: Co-Led Relay for Life, an American Cancer Society Fundraising Event 
+summary: During the senior year of highschool, I Co-Led Relay for Life, an American Cancer Society Fundraising Event at Mililani High School
 ---
- 
 
 What is Relay For Life? 
 ---
