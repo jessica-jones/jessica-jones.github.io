@@ -25,6 +25,7 @@ Image Credit: [National History Day](https://www.nhd.org/)
 
 Researching and Editing 
 ---
+<img class="ui small left floated rounded image" src="../images/CampbellSoup.PNG">
 Because of our combined interest in art, my partner and I decided to create a documentary about pop art. 
 After months of research, drafting, and editing we had a documentary to present to the world. We also went above and beyond by buying matching pop art shirts so we had matching outfits during our interviews. 
 
