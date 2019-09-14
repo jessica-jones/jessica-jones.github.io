@@ -21,7 +21,7 @@ Why an Anti-Theft Backpack?
 During the Fall 2018 semester, Kelsey Fukushima, Taylor Inong, and I designed and created a device which protects a backpack from pickpocketing by sensing when bag is open and alerting wearer with an alarm. 
 
 Right off the bat we knew we wanted to create a project that incorporated fashion in some way, because we believed that this would be different from some of the projects that have been completed before in this class. We started looking up project ideas online; we liked the projects that lit up and made sound, so we knew we wanted to include these things into our project. Some of these things included holiday decorations or clothes that lit up. However, we also wanted to create something that had practical use. We came up with the idea of making a device that acted in a similar way to a car alarm for a backpack. The device would alert the owner that the object was being handled in an unauthorized way by emitting an alarm. This alarm could only be deactivated with a key. 
-
+ Image Credit: [Arduino Website](https://www.arduino.cc/en/Trademark/HomePage) and [Arduino](https://commons.wikimedia.org/wiki/File:Arduino_Logo.svg)
 
 What did I do?
 ---
