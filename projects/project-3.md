@@ -25,11 +25,13 @@ Image Credit: [National History Day](https://www.nhd.org/)
 
 Researching and Editing 
 ---
-<img class="ui small left floated rounded image" src="../images/CampbellSoup.PNG">
 Because of our combined interest in art, my partner and I decided to create a documentary about pop art. 
 After months of research, drafting, and editing we had a documentary to present to the world. We also went above and beyond by buying matching pop art shirts so we had matching outfits during our interviews. 
 
 What did I learn?
 ---
+<img class="ui right left floated rounded image" src="../images/CampbellSoup.PNG">
 Participating in the National History Day competition helped me to develop my professionalism and improve my communication skills. One of the unique challenges of writing a script for a video, was trying to balance creating a factually correct yet interesting and easily understood message. We solved this by including interviews. I learned what were the 'right' kinds of questions to ask during an interview, as well as how to push an interview in the direction you wanted it to go. 
+
+Image Credit: [The Andy Warhol Museum](https://www.warhol.org/lessons/campbells-soup-ode-to-food/)
 
