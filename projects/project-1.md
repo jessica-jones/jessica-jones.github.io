@@ -10,6 +10,7 @@ labels:
   - Arduino
   - Arduino IDE 
   - RFID 
+  - Engineering Project
 summary: My team and I proposed, designed, and developed an anti-theft backpack which could be unlocked with an RFID key. To make this project, we used Arduino Hardware and RFID technology. 
 
 ---
@@ -30,6 +31,9 @@ Right off the bat we knew we wanted to create a project that incorporated fashio
 What did I do?
 ---
 Over the course of the semester, we met weekly; we all relied on each other for different components of the project. I contributed to this project by researching information on existing anti-theft technologies and RFID capabilities, as well as handpicking some of the materials used in the final design. My most meaningful additions were to plan and write some of the code, and to script, record, and edit footage to create the video summary of project. 
+
+```
+```
 
 
 What did I learn?  
