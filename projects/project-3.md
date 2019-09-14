@@ -21,7 +21,7 @@ National History Day is a competition in which students from around the world co
 My partner and I competed at the national national level competition with a documentary on the explorations, encounters, and exchange of Pop Art.
 
 <div class="ui small rounded images">
-  <img class="ui image right floated image" src="../images/nhdlogo-white.png">
+  <img class="ui right floated image" src="../images/nhdlogo-white.png"> 
 </div>
 
 Researching and Editing 
