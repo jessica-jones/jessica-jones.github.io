@@ -13,12 +13,10 @@ labels:
   - National History Day
 summary: Scripted and Directed National History Documentary about the explorations, encounters, and exchange of pop art. 
 ---
-
-
   
 What is National History Day? 
 ---
-National History Day is a competition in which students from around the world compete by researching a historical topic and presenting it in one of four categories: paper, documentary, exhibit, or performance. Students in middle and high school can participate, and they<img class="ui small right floated rounded image" src="../images/nhdlogo.png"> can either compete individually or in a group. Students must place in school and affiliate competitions before they can move on to the national competition in Maryland. 
+<img class="ui small right floated rounded image" src="../images/nhdlogo.png"> National History Day is a competition in which students from around the world compete by researching a historical topic and presenting it in one of four categories: paper, documentary, exhibit, or performance. Students in middle and high school can participate, and they can either compete individually or in a group. Students must place in school and affiliate competitions before they can move on to the national competition in Maryland. 
 
 My partner and I competed at the national national level competition with a documentary on the explorations, encounters, and exchange of Pop Art.
 
