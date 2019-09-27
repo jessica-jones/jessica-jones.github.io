@@ -27,11 +27,9 @@ Not adhering to coding standards can make your code appear low quality. It can b
 
 Documentation 
 ---
-One thing that Dan and Dave got right was that they documented some of the creation of the show. After each episode, they release a [behind the scenes video]( https://www.youtube.com/watch?v=RQ9QQMXTftY&t=1s), which documents some of the creative decisions they took, as well as the craftsmanship that it took to make the episode. 
+One thing that Dan and Dave got right was that they documented some of the creation of the show. After each episode, they release a [behind the scenes video](https://www.youtube.com/watch?v=RQ9QQMXTftY&t=1s), which documents some of the creative decisions they took, as well as the craftsmanship that it took to make the episode. 
 While many fans disagree at least they can try to understand how Dan and Dave are approaching this project. 
-Just looking at the embroidery in some of the costumes you can tell that the costume designers put in so much time and effort. Even the set builders 
-Inside the episode 
-Like, the one thing they got right. Documentation enhances the experience. 
+Just looking at the embroidery in some of the costumes you can tell that the costume designers put in so much time and effort. Even the set builder. 
 
 Tools 
 ---
