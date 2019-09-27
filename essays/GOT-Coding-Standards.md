@@ -46,6 +46,7 @@ I think one of the biggest things Dan and Dave forgot to consider was the life a
 
 When writing code, one of the things you should consider is if your code stands the test of time. A couple of months from now, will you be able to understand the code you wrote? Are other people going to be able to easily read and understand it? Is this something people will be able to build upon or use in the future? Is there effort reflected in the final product? 
 
+If anything, take solace in the fact that your code wasn't bad enough someone created a [petition]( https://www.change.org/p/hbo-remake-game-of-thrones-season-8-with-competent-writers). 
 
 
 
