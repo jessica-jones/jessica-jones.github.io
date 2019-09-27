@@ -32,7 +32,7 @@ Documentation
 One thing that Dan and Dave got right was that they documented some of the creation of the show. After each episode, they release a [behind the scenes video](https://www.youtube.com/watch?v=RQ9QQMXTftY&t=1s), which documents some of the creative decisions they took, as well as the craftsmanship that it took to make the episode. While many fans disagree at least they can try to understand how Dan and Dave are approached this project, at least they started commentary to help keep you enganged. 
 
 
-It is important for you to document what you did so that people are able to understand you code later on. 
+It is important for you to document what you did so that people are able to understand your code later on. 
 
 Tools 
 ---
