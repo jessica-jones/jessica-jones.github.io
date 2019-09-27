@@ -18,7 +18,23 @@ It’s hard to ignore that many fans are disappointed in how the writers of Game
 
 While software and TV shows might seem like totally different things, in the industry, both are created from team members and adhere to certain standards. Let's examine some of the hits and misses of the writers to understand more about coding standards. 
 
+Indication of Quality/Effort  
+---
+A huge complaint from fans is that Dan and Dave rushed the last season of GOT; they were trying to cram so many events into one episode, that the audience didn’t feel the weight of each event. For example, in the first episode, Jon rode Rhaegal – something that has huge significance, but the viewers are not given time to appreciate this event because it comes halfway through an episode where: Jon reunites with Bran and Arya, Theon rescues Yara, the golden company comes to Westeros, Ned Umber is killed by the white walkers, Jaime Lannister turns up at Winterfell and confronts Bran, and Jon learns that he is actually Aegon Targaryen. Compared to the moment when Daenerys first flew with Drogon, which was the climax of a ten-minute scene, Jon’s first flight falls flat. 
 
+Created a precedent for themselves because of how the events were paced in the previous seasons.
+Not adhering to coding standards can make your code appear low quality. It can be a sign that you rushed the job or didn’t put a lot of effort in either the code itself or in being part of a team. 
+Decreases your credibility as writer/producer or software engineer. 
+
+Documentation 
+---
+One thing that Dan and Dave got right was that they documented some of the creation of the show. After each episode, they release a [behind the scenes video]( https://www.youtube.com/watch?v=RQ9QQMXTftY&t=1s), which documents some of the creative decisions they took, as well as the craftsmanship that it took to make the episode. 
+While many fans disagree at least they can try to understand how Dan and Dave are approaching this project. 
+ Just looking at the embroidery in some of the costumes you can tell that the costume designers put in so much time and effort. Even the set builders 
+Inside the episode 
+Like, the one thing they got right. Documentation enhances the experience. 
+
+It’s the time for you to explain your ideas/support (argue them). Demonstrate your thought processes and insight. 
 
 Tools 
 ---
