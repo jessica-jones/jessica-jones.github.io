@@ -27,9 +27,9 @@ Not adhering to coding standards can make your code appear low quality. It can b
 
 Documentation 
 ---
-One thing that Dan and Dave got right was that they documented some of the creation of the show. After each episode, they release a [behind the scenes video](https://www.youtube.com/watch?v=RQ9QQMXTftY&t=1s), which documents some of the creative decisions they took, as well as the craftsmanship that it took to make the episode. 
-While many fans disagree at least they can try to understand how Dan and Dave are approaching this project. 
-Just looking at the embroidery in some of the costumes you can tell that the costume designers put in so much time and effort. Even the set builder. 
+One thing that Dan and Dave got right was that they documented some of the creation of the show. After each episode, they release a [behind the scenes video](https://www.youtube.com/watch?v=RQ9QQMXTftY&t=1s), which documents some of the creative decisions they took, as well as the craftsmanship that it took to make the episode. While many fans disagree at least they can try to understand how Dan and Dave are approached this project, at least they started commentary to help keep you enganged. 
+
+It is important for you to document what you did so that people are able to understand you code later on. 
 
 Tools 
 ---
@@ -38,7 +38,7 @@ When coding, you should take advantage of the tools you have at your disposal. S
 
 So What Now? Re-watchability and Readability
 ---
-I think one of the biggest things Dan and Dave forgot to consider was the life and longevity of their project. While studios make money from the initial release of a TV show and merchandise, they also make money from residuals. If the popularity of a show persists beyond its release, whenever the show is re-run on TV or when streaming services buy the rights to host it on their platform, the people involved with the project still earn money. What Dan and Dave failed to realize is that they wasted the effort behind not only season 8, but the complete series. People aren’t going to want to invest in watching the entire series if they know the ending does not pay off. Again, all the effort put into the series by the rest of the team members – the actors, production team, editors, musicians, cinematography team, and the rest of the crew – is overshadowed by the bad writing. 
+I think one of the biggest things Dan and Dave forgot to consider was the life and longevity of their project. While studios make money from the initial release of a TV show and merchandise, they also make money from residuals. If the popularity of a show persists beyond its release, whenever the show is re-run on TV or when streaming services buy the rights to host it on their platform, the people involved with the project still earn money. What Dan and Dave failed to realize is that they wasted the effort behind not only season 8, but the complete series. People aren’t going to want to invest in watching the entire series if they know the ending does not pay off. All the effort put into the series by the rest of the team members – the actors, production team, editors, musicians, cinematography team, and the rest of the crew – is overshadowed by the bad writing. 
 When writing code, one of the things you should consider is if your code stands the test of time. A couple of months from now, will you be able to understand the code you wrote? Are other people going to be able to easily read and understand it? Is this something people will be able to build upon or use in the future? Is there effort reflected in the final product? 
 
 
