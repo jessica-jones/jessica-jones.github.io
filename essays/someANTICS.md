@@ -33,8 +33,9 @@ Pop Art Stop Art
 ---
 One concern my classmate have with learning to use Semantic UI is that it takes a lot of time to learn. Helpful as it is, there is a lot of documentation to go through. In their eyes, mastering Semantic is not a necessary skill. You can make a fully functional webpage without it. In fact, the changes you make to your website don't necessarily make it stand out - it follows the format and uses the same things as just about any other website. Why put all this time and effort into something you don't really need, and aren't planning on using in the future? I think that it's a fair question to ask; should you be expected to know or be good at everything concerning software development?
  
-I think by examining the concerns my classmates have, we can better understant Maybe it’s just not where their priorities are.  
-People who reject a lot of normal things (don’t fit into normal general public) (reject pretty sameness) (use a lot of tools that WORK, that don’t need to be pretty) Don’t like it because it’s not familiar (or the thought process they use to use tools). They don’t think of the people using it (not making decisions based on people) but on the problem itself. 
+I think by examining the concerns my classmates have, we can better understant their perspectives and where their priorities lie. I thought maybe they didn't like Semantic UI because it was unfamiliar or difficult to use. But then I realized; there are a lot of basic apps and programs that these people run with ugliness and poor documentation. I think my classmates are focused on practicality; they encorporate tools that work/dont NEED to be pretty. They want to focus on the problem itself. 
+
+
 What they’re missing is that semantic UI esp. resembles a huge part of people’s experience with the web. 
 I think they don’t realize how closely technology is linked to ppl. Technology is linked to people – we create solutions for the problems people create. Ray Bradbury was good at predicting things not bc he was good at tech but because he was good at understanding people.
 Maybe it’s a rebellion from the commercialization/mold/our growing fatigue of reboots and formulaic movies (ads in entertainment – YouTube, tv, product placement in movies/music videos). Constant bombardment 
@@ -43,6 +44,7 @@ Good marketing is not necessarily indicative of a good product.
 
 
 McDonald’s v Michelin Stars 
+---
 I think its fine to learn as a (complement) if you are pursuing computer science 
 Don’t think it should be the focus of software development (like the foundation) Is McDonald’s the same as a Michelin Starred restaurant? They are both food. It’s fine to enjoy every once and a while – not real life, has a superficial purpose (it’s not substance sustenance) -doesn’t make it bad. 
 The substance is most important I think; if everything looks the same anyway, they are going to be judging the content (pretty will only get you so far). If the software doesn’t work, there are plenty of people willing to use things that don’t look as good. 
