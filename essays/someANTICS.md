@@ -51,8 +51,11 @@ Choosing to Suck
 I think technology and people go hand in hand; I think it’s generally helpful to learn to consider the people using the technology you create. I think the foundation should be good content; using Semantic UI or another UI Framework to dress it up is a bonus but vital in this day and age.
 
 I think my classmates are right, in a way. There’s no need to make it out to be more than it is. It’s fine if it’s just a way of giving their plain html a makeover.  
+
 What does this mean going forward? 
+
 I think this quote from Homeland by Cory Doctorow is apt. The main character is comparing the events that have recently happened in his life – his parents losing their jobs, struggling to afford college – to a friend who is traveling around the world to escape the law: 
-“Her reality might suck too, but it sucked in huge, showy, neon letters—not in the quiet, crabbed handwriting of a desperate and broke teenager scribbling in his diary.”  From Homeland by Cory Doctorow 
+
+> “Her reality might suck too, but it sucked in huge, showy, neon letters—not in the quiet, crabbed handwriting of a desperate and broke teenager scribbling in his diary.” 
 
 If you are going to suffer making a website, you might as well make it huge, showy, and neon, as opposed to quiet and crabbed. 
