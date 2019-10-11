@@ -26,46 +26,33 @@ But talking to my classmates, I was surprised to find that many of them don’t 
 
 Onement VI by Barnett Newman. Beyond money laundering, why would someone purchase this for $43.8 million dollars. When simple works of art like this one are bought, it makes us wonder, what even is art? 
 
-Even earlier this week, there was hubbub around Martin Scorsese’s [view of the Marvel movies](https://www.forbes.com/sites/travisbean/2019/10/10/the-real-problem-with-martin-scorseses-marvel-comments/); how he didn’t consider them to be ‘cinema’. Assertions like these are often seen as elitist. Certainly there are norms that the Marvel movies or modern art challenge; can we understand the unwillingness to learn and reluctance to take UI seriously through such a lens? 
+Even earlier this week, there was hubbub around Martin Scorsese’s [view of the Marvel movies](https://www.forbes.com/sites/travisbean/2019/10/10/the-real-problem-with-martin-scorseses-marvel-comments/); how he didn’t consider them to be ‘cinema’. Assertions like these are often seen as elitist. Certainly, there are norms that the Marvel movies or modern art challenge; can we understand the unwillingness to learn and reluctance to take UI seriously through such a lens? 
 
 
 Pop Art Stop Art 
 ---
 One concern my classmate have with learning to use Semantic UI is that it takes a lot of time to learn. Helpful as it is, there is a lot of documentation to go through. In their eyes, mastering Semantic is not a necessary skill. You can make a fully functional webpage without it. In fact, the changes you make to your website don't necessarily make it stand out - it follows the format and uses the same things as just about any other website. Why put all this time and effort into something you don't really need, and aren't planning on using in the future? I think that it's a fair question to ask; should you be expected to know or be good at everything concerning software development?
  
-I think by examining the concerns my classmates have, we can better understant their perspectives and where their priorities lie. I thought maybe they didn't like Semantic UI because it was unfamiliar or difficult to use. But then I realized; there are a lot of basic apps and programs that these people run with ugliness and poor documentation. I think my classmates are focused on practicality; they encorporate tools that work/dont NEED to be pretty. They want to focus on the problem itself. 
+I think by examining the concerns my classmates have, we can better understand their perspectives and where their priorities lie. I thought maybe they didn't like Semantic UI because it was unfamiliar or difficult to use. But then I realized; there are a lot of basic apps and programs that these people run with ugliness and poor documentation. I think my classmates are focused on practicality; they incorporate tools that work/don't NEED to be pretty. They want to focus on the problem itself. 
 
-
-What they’re missing is that semantic UI esp. resembles a huge part of people’s experience with the web. 
-I think they don’t realize how closely technology is linked to ppl. Technology is linked to people – we create solutions for the problems people create. Ray Bradbury was good at predicting things not bc he was good at tech but because he was good at understanding people.
-Maybe it’s a rebellion from the commercialization/mold/our growing fatigue of reboots and formulaic movies (ads in entertainment – YouTube, tv, product placement in movies/music videos). Constant bombardment 
-
-Good marketing is not necessarily indicative of a good product. 
-
+However, I think they're missing that Semantic UI is set up to mirror the experience people have while using the web. That, and technology is closely linked to people. After all, tech is the solution to the problems that people create. 
 
 McDonald’s v Michelin Stars 
 ---
-I think its fine to learn as a (complement) if you are pursuing computer science 
-Don’t think it should be the focus of software development (like the foundation) Is McDonald’s the same as a Michelin Starred restaurant? They are both food. It’s fine to enjoy every once and a while – not real life, has a superficial purpose (it’s not substance sustenance) -doesn’t make it bad. 
-The substance is most important I think; if everything looks the same anyway, they are going to be judging the content (pretty will only get you so far). If the software doesn’t work, there are plenty of people willing to use things that don’t look as good. 
+In support of Marvel movies, fans have rebutted Scorsese that movies are cinema– it plays in a theater, doesn’t it? However, I think that they need to be more nuanced and less literal about the distinction Scorsese is making; is McDonald’s the same as a Michelin Starred restaurant? They both make food. 
 
-Marvel makes movies, but it’s not cinema. The distinction that Scorsese is making is accurate. Cinema is not overly focused on what the audience how to them. It’s not making narrative decisions based on committee or test audiences or future franchise potential. Cinema is a director’s medium, not a studio’s medium. I wish people could be more nuanced and less literal about recognizing the distinction Scorese is making.
+Marvel movies are a studio project, whose creative choices are dictated based on money making potential. Cinema reflects the creative vision of the director, not future franchise establishing.  With fast food, it's okay to occasionally eat it from time to time. The real problem is when you only ever eat it. Similarly, I think it’s fine to dabble in UI. However, this shouldn't be the foundation of your programming knowledge; it should just complement it.  
 
-ust as our tastes change from day to day, ie: whether we prefer steak one day and pizza the next, both style of movies are valid. All of us want what accentuates our experiences whether it be gritty or surreal. Validates our experiences 
-
-Marvel cinematic universe isn’t not cinema; its just not GOOD cinema; they are underutilizing the tools available to them. 
+The substance is most important I think; if everything looks the same anyway, the audience is going to be judging the content anyway. If the software doesn’t work, there are plenty of people willing to use things that don’t look as good. 
 
 
 Choosing to Suck
 ---
-I think technology and people go hand in hand; I think it’s generally helpful to learn to consider the people using the technology you create. I think the foundation should be good content; dressing it up is a bonus but vital in this day and age. Important to use well. I think if anything it speaks to the prevalence of commercial in our lives.
+I think technology and people go hand in hand; I think it’s generally helpful to learn to consider the people using the technology you create. I think the foundation should be good content; using Semantic UI or another UI Framework to dress it up is a bonus but vital in this day and age.
 
 I think my classmates are right, in a way. There’s no need to make it out to be more than it is. It’s fine if it’s just a way of giving their plain html a makeover.  
 What does this mean going forward? 
-
-
-I think this quote from Homeland by Cory Doctorow is apt. The main character is comparing (his parents losing their jobs, struggling to get through school) to a friend’s jetsetting life (on the run). 
+I think this quote from Homeland by Cory Doctorow is apt. The main character is comparing the events that have recently happened in his life – his parents losing their jobs, struggling to afford college – to a friend who is traveling around the world to escape the law: 
 “Her reality might suck too, but it sucked in huge, showy, neon letters—not in the quiet, crabbed handwriting of a desperate and broke teenager scribbling in his diary.”  From Homeland by Cory Doctorow 
 
-No matter what it is, you want your website to suck in huge, showy, neon letters (cool suck). 
-Struggle, work, create 
+If you are going to suffer making a website, you might as well make it huge, showy, and neon, as opposed to quiet and crabbed. 
