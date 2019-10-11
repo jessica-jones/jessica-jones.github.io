@@ -7,9 +7,9 @@ date: 2019-10-10
 labels:
   - Semantic UI
   - UI Frameworks
-  - Pop Art 
+  - Modern Art 
 ---
-Hot Talke About Learning Semantic UI through the Framework of the Elitism? of Modern Art
+Hot Talke About Learning Semantic UI through the Framework of the Elitism? of Modern Art and the MCU 
 
 
 A User-Interface (UI) framework is a tool that provides the structure/template for constructing complex applications without extensive technical or design skills. There are many reasons why someone would want to use one of them…
