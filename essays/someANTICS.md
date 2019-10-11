@@ -58,4 +58,4 @@ I think this quote from Homeland by Cory Doctorow is apt. The main character is 
 
 > “Her reality might suck too, but it sucked in huge, showy, neon letters—not in the quiet, crabbed handwriting of a desperate and broke teenager scribbling in his diary.” 
 
-If you are going to suffer making a website, you might as well make it huge, showy, and neon, as opposed to quiet and crabbed. 
+If you are going to suffer making a website, you might as well take it all the way and use Semantic UI to make it huge, showy, and neon, as opposed to quiet and crabbed. 
