@@ -8,8 +8,10 @@ labels:
   - Semantic UI
   - UI Frameworks
   - Pop Art 
-summary: A soup of consumerism, UI frameworks, art in this day and age, and a dash of marketing.  
 ---
+Learning Semantic UI through the Framework of Modern Art and Consumerism 
+
+
 A User-Interface (UI) framework is a tool that provides the structure/template for constructing complex applications without extensive technical or design skills. There are many reasons why someone would want to use one of them…
 Speaking specifically about Semantic UI, which we used for class: 
 -	It’s Efficient: it saves developers from unnecessarily building components from scratch 
@@ -20,20 +22,18 @@ Speaking specifically about Semantic UI, which we used for class:
 
 But talking to my classmates, I was surprised to find that many of them don’t like HTML or using Semantic UI -- they thought that it was frivolous to learn. The discussion around the seriousness of learning to use a UI framework and how it related to other languages and skills made me think about how people view and contextualize modern artwork. About how when Andy Warhol put mass-produced, ordinary, commercial items into the context of a museum, he transformed them into art; or at the very least, sparked a conversation about what art was. 
 
-<img class="ui small right floated rounded image" src="https://github.com/jessica-jones/jessica-jones.github.io/blob/master/images/fe71f27fa2321a18aab84386d58b7ab8.png">
+<img class="ui small floated image" src="https://github.com/jessica-jones/jessica-jones.github.io/blob/master/images/fe71f27fa2321a18aab84386d58b7ab8.png">
 
 Onement VI by Barnett Newman. Beyond money laundering, why would someone purchase this for $43.8 million dollars. When simple works of art like this one are bought, it makes us wonder, what even is art? 
 
 Even earlier this week, there was hubbub around Martin Scorsese’s [view of the Marvel movies](https://www.forbes.com/sites/travisbean/2019/10/10/the-real-problem-with-martin-scorseses-marvel-comments/); how he didn’t consider them to be ‘cinema’. Assertions like these are often seen as elitist. Certainly there are norms that the Marvel movies or modern art challenge; can we understand the unwillingness to learn and reluctance to take UI seriously through such a lens? 
 
 
-Can Do 
+Pop Art Stop Art 
 ---
-There might be trouble in general with using a new skill 
-Too much time (you make time) 
-Take a lot of time to learn – don’t really need it. You can make a website without it. 
-Maybe it’s just not where their priorities are. Should you be expected to know/be good at everything? 
-Why make something that looks like everyone else’s? 
+One concern my classmate have with learning to use Semantic UI is that it takes a lot of time to learn. Helpful as it is, there is a lot of documentation to go through. In their eyes, mastering Semantic is not a necessary skill. You can make a fully functional webpage without it. In fact, the changes you make to your website don't necessarily make it stand out - it follows the format and uses the same things as just about any other website. Why put all this time and effort into something you don't really need, and aren't planning on using in the future? I think that it's a fair question to ask; should you be expected to know or be good at everything concerning software development?
+ 
+I think by examining the concerns my classmates have, we can better understant Maybe it’s just not where their priorities are.  
 People who reject a lot of normal things (don’t fit into normal general public) (reject pretty sameness) (use a lot of tools that WORK, that don’t need to be pretty) Don’t like it because it’s not familiar (or the thought process they use to use tools). They don’t think of the people using it (not making decisions based on people) but on the problem itself. 
 What they’re missing is that semantic UI esp. resembles a huge part of people’s experience with the web. 
 I think they don’t realize how closely technology is linked to ppl. Technology is linked to people – we create solutions for the problems people create. Ray Bradbury was good at predicting things not bc he was good at tech but because he was good at understanding people.
