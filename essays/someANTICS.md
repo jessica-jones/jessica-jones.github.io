@@ -16,6 +16,8 @@ Speaking specifically about Semantic UI, which we used for class:
 -	It’s Cost Effective: it’s free to use, you don’t have to hire a professional to implement it, and there’s also a dedicated team of people working on it/fixing bugs 
 -	It’s Helpful: it includes a lot of functions that I wouldn’t know how to make on my own such as the search bar/drop down menu 
 -	It’s Got Tons of Documentation 
+
+
 But talking to my classmates, I was surprised to find that many of them don’t like HTML or using Semantic UI -- they thought that it was frivolous to learn. The discussion around the seriousness of learning to use a UI framework and how it related to other languages and skills made me think about how people view and contextualize modern artwork. About how when Andy Warhol put mass-produced, ordinary, commercial items into the context of a museum, he transformed them into art; or at the very least, sparked a conversation about what art was. 
 
 <img class="ui small floated rounded image" src="https://github.com/jessica-jones/jessica-jones.github.io/blob/master/images/fe71f27fa2321a18aab84386d58b7ab8.jpg" alt="Onement VI, 1953 - Barnett Newman">
