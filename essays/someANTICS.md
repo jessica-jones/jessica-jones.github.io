@@ -20,14 +20,12 @@ Speaking specifically about Semantic UI, which we used for class:
 
 But talking to my classmates, I was surprised to find that many of them don’t like HTML or using Semantic UI -- they thought that it was frivolous to learn. The discussion around the seriousness of learning to use a UI framework and how it related to other languages and skills made me think about how people view and contextualize modern artwork. About how when Andy Warhol put mass-produced, ordinary, commercial items into the context of a museum, he transformed them into art; or at the very least, sparked a conversation about what art was. 
 
-<img class="ui small floated rounded image" src="https://github.com/jessica-jones/jessica-jones.github.io/blob/master/images/fe71f27fa2321a18aab84386d58b7ab8.png" alt="Onement VI, 1953 - Barnett Newman">
-<div class="centered text">Onement VI by Barnett Newman. Beyond money laundering, why would someone purchase this for $43.8 million dollars. When simple works of art like this one are bought, it makes us wonder, what even is art? </div>
+<img class="ui small right floated rounded image" src="https://github.com/jessica-jones/jessica-jones.github.io/blob/master/images/fe71f27fa2321a18aab84386d58b7ab8.png">
 
-Even earlier this week, there was hubbub around Martin Scorsese’s [view of the Marvel movies](https://www.forbes.com/sites/travisbean/2019/10/10/the-real-problem-with-martin-scorseses-marvel-comments/); how he didn’t consider them to be ‘cinema’. 
-Is it elitist/gatekeeping to make distinctions like this? 
-I think intuitively, we know that something is different from the norm, but by examining it further we 
-We can see if the unwillingness to learn 
-Understand this reluctance to learn or to have UI share the spotlight with other programming skills? Should it be considered “programming” or a skill that is on the same level as Java, python, etc.? 
+Onement VI by Barnett Newman. Beyond money laundering, why would someone purchase this for $43.8 million dollars. When simple works of art like this one are bought, it makes us wonder, what even is art? 
+
+Even earlier this week, there was hubbub around Martin Scorsese’s [view of the Marvel movies](https://www.forbes.com/sites/travisbean/2019/10/10/the-real-problem-with-martin-scorseses-marvel-comments/); how he didn’t consider them to be ‘cinema’. Assertions like these are often seen as elitist. Certainly there are norms that the Marvel movies or modern art challenge; can we understand the unwillingness to learn and reluctance to take UI seriously through such a lens? 
+
 
 Can Do 
 ---
