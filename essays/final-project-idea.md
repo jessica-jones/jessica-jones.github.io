@@ -16,3 +16,4 @@ Problem:
 
 Solution:
 ---
+  Our website keeps track of the events happening at UH, and will let you know if parking/traffic will be affected. You can input your schedule to our website and we will see what events will affect you, as well as which ones you can attend. 
