@@ -8,9 +8,11 @@ labels:
   - Meteor
 ---
 
+### Overview:
 
 Problem:
 ---
+
   UH consistantly has events going on campus. Events can interfere with parking/your schedule. How will you be able to adjust your commute or plan ahead if you don't know what's going on? Especially if these events don't pertain to you/you are the target demographic. 
   
   For example, if you aren't a sports fan, how will you know that the volleyball game will affect your commute home?  
