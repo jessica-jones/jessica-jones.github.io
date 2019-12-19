@@ -43,11 +43,11 @@ What did I learn?
 
 
 
+View [Books for Bows](https://books-for-bows.meteorapp.com/#/)!
 
+View The [Books for Bows Information Page](https://books-for-bows.github.io/)!
 
-View [Books for Bows]()!
-
-View [Our Github]()!
+View [Our Github Repos](https://github.com/books-for-bows/)!
 
 
 
