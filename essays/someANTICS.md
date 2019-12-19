@@ -11,53 +11,28 @@ labels:
 ---
 Hot Take About Learning Semantic UI through the Framework of the Elitism of Modern Art and Cinema 
 
-A User-Interface (UI) framework is a tool that provides the structure/template for constructing complex applications without extensive technical or design skills. There are many reasons why someone would want to use one of them…
+A User-Interface (UI) framework is a tool that provides the structure/template for constructing complex applications without extensive technical or design skills. There are many reasons why someone would want to use one of them. For example, Semantic UI is: 
+-	Efficient: it saves developers from unnecessarily building components from scratch 
+-	Cost Effective: it’s free to use, you don’t have to hire a professional to implement it, and there’s also a dedicated team of people working on it/fixing bugs 
+-	Helpful: it includes a lot of functions that I wouldn’t know how to make on my own such as the search bar/drop down menu 
+-	Has Tons of Documentation 
+These points are by no means restricted only to Semantic UI; they can apply to other UI frameworks. 
 
-Speaking about Semantic UI, which we used for class: 
+After picking some of my classmates’ brains, I was surprised to find that many of them don’t like HTML or using Semantic UI. A surprising majority thought that it was a frivolous skill, something fanciful that they wouldn’t bother themselves with and to save until the very last possibility to learn. I’m not sure if this notion stems from the general societal lack of seriousness for artists or the pursuit of artistic endeavors, but it certainly reminded me of it. But it also reminded me that the context in which you view something can change your perspective on it. Soup cans and soda bottles are unassuming on the shelf of a grocery store, but when perched on a pillar or situated behind a frame, the atmosphere of a museum invites onlookers to look at it in the context of art.  I wonder if this  mindset can somehow explain my classmate’s reluctance to become proficient in UI  (and thereby take it seriously).
 
-- It’s Efficient: it saves developers from building components from scratch 
-
-- It’s Cost Effective: it’s free to use, you don’t have to hire a professional to implement it, and there’s also a dedicated team of people working on it/fixing bugs 
-
-- It’s Helpful: it includes a lot of functions that I wouldn’t know how to make on my own such as the search bar/drop down menu 
-
-- It’s Got Tons of Documentation 
-
-But talking to my classmates, I was surprised to find that many of them don’t like HTML or using Semantic UI -- they thought that it was frivolous to learn. The discussion around the seriousness of learning to use a UI framework and how it related to other languages and skills made me think about how people view and contextualize modern artwork. About how when Andy Warhol put mass-produced, ordinary, commercial items into the context of a museum, he transformed them into art; or at the very least, sparked a conversation about what art was. 
-
-Even earlier this week, there was hubbub around Martin Scorsese’s [view of the Marvel movies](https://www.forbes.com/sites/travisbean/2019/10/10/the-real-problem-with-martin-scorseses-marvel-comments/); how he didn’t consider them to be ‘cinema’. Assertions like these are often seen as elitist. Certainly, there are norms that the Marvel movies or modern art challenge; can we understand the unwillingness to learn and reluctance to take UI seriously through such a lens? 
-
-Pop Art Stop Art 
-
+Time is money 
 ---
+My classmates argue that Semantic UI doesn’t have a good return on investment. Semantic takes a lot of time to learn. There are mountains of documentation to go through, helpful as it is. Even if you wanted to learn to master Semantic UI, my classmates might argue, it is not a necessary skill. You are perfectly capable of creating a fully functional webpage without it. Why put all this time and effort into something you don't really need? I think that it's a fair question to ask.  Should you be expected to know or be good at everything concerning software development?
 
-One concern my classmates have with learning to use Semantic UI is that it takes a lot of time to learn. Helpful as it is, there is a lot of documentation to go through. In their eyes, mastering Semantic is not a necessary skill. You can make a fully functional web page without it. In fact, the changes you make to your website don't  make it stand out - it follows the format and uses the same things as  any other website. Why put all this time and effort into something you don't need, and aren't planning on using in the future? It's a fair question to ask; should you be expected to know or be good at everything concerning software development?
+My classmates argue the necessity of Semantic UI. If you are ranking the merits of visuals vs. functionality, then fine – I suppose it’s most important that your project works, that you have a solution. If your software looks good but doesn’t work, most people would probably be inclined to use something else that doesn’t look good, but work.  
 
-By examining the concerns my classmates have, we can better understand their perspectives and where their priorities lie. I thought they didn't like Semantic UI because it was unfamiliar or difficult to use. But then I realized; there are a lot of basic apps and programs that these people run with ugliness and poor documentation. My classmates are focused on practicality; they incorporate tools that work/don't NEED to be pretty. They want to focus on the problem itself. 
-
-However, they're missing that Semantic UI is set up to mirror the experience people have while using the web. That, and technology is closely linked to people. After all, tech is the solution to the problems that people create. 
-
-McDonald’s v Michelin Stars 
-
----
-
-In support of Marvel movies, fans have rebutted Scorsese that movies are cinema– it plays in a theater, doesn’t it? However, I think that they need to be more nuanced and less literal about the distinction Scorsese is making; is McDonald’s the same as a Michelin Starred restaurant? They both make food. 
-
-Marvel movies are a studio project, whose creative choices are dictated based on money making potential. Cinema reflects the creative vision of the director, not future franchise establishing. With fast food, it's okay to eat it from time to time. The real problem is when you only ever eat it. Similarly, it’s fine to dabble in UI. However, it shouldn't be the foundation of your programming knowledge; it should simply complement it.  
-
-The substance is most important; if everything looks the same anyway, the audience is going to be judging the content anyway. If the software doesn’t work, there are plenty of people willing to use things that don’t look as good. 
+Clearly my classmates prioritize practicality, and their perspective reflects that. They want to address the problem itself, not how the solution looks. However, I think they're missing the idea that Semantic UI is supposed to help reduce the amount of time spent on design because for the preset definitions. They underestimate that part of the solution can be that irrational human desire for the aesthetic. People have come to expect a certain level of experience while on the web, and one component of that is the look. 
 
 Choosing to Suck
-
 ---
+Since people create technology to solve the problems that they create, I think its generally helpful to learn to consider the people that will be using your technology. It’s good to have those foundational programming skills, but good to also incorporate Semantic UI or another UI Framework to create an engaging solution. One skill to complement the other. 
 
-I think technology and people go hand in hand;  it’s generally helpful to learn to consider the people using the technology you create. The foundation should be good content; using Semantic UI or another UI Framework to dress it up is a bonus, but vital in this day and age.
-
-my classmates are right, in a way. There’s no need to make it out to be more than it is. It’s fine if it’s a way of giving their plain html a makeover. 
-
-What does this mean going forward? 
-
-I think this quote from Homeland by Cory Doctorow is apt. The main character is comparing the events that have recently happened in his life – his parents losing their jobs, struggling to afford college – to a friend who is traveling around the world to escape the law: 
+I think this quote from Homeland by Cory Doctorow is sums everything up. The context is that the main character is comparing the struggles in his life – parents losing their jobs, his inability to to afford college – to his renegade friend’s struggle to escape the law by travelling the word: 
 
 > “Her reality might suck too, but it sucked in huge, showy, neon letters—not in the quiet, crabbed handwriting of a desperate and broke teenager scribbling in his diary.” 
 
