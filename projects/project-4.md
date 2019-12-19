@@ -15,18 +15,19 @@ labels:
 summary: The ultimate test of the skills we learned during the Fall 2019 Semester of ICS 314. My team and I introduced Books for Bows, a marketplace for UH students to buy and sell their textbooks, to the world. 
 ---
 
-The page should provide an overview of the project, what your contributions to the project were, what you learned from this experience, and one or more screenshots.
+<img class="ui image" src="{{ site.baseurl }}/images/Landing_Favicon.png">
 
-<img class="ui medium right floated rounded image" src="../images/b4b-welcome-bb.png">
-<img class="ui medium right floated rounded image" src="../images/Landing_Favicon.png">
+<img class="ui medium image" src="../images/b4b-welcome-bb.png">
+<img class="ui medium image" src="../images/Landing_Favicon.png">
 
 
-Can't See Me 'Cause I'm Overview 
+A Bit About Books for Bows
 ---
 <img class="ui medium right floated rounded image" src="../images/Landing_Favicon.png">
 
+Books for Bows is a marketplace for University of Hawai’i students to buy and sell textbooks. We are "Books for Bows" because we serve the Rainbow Warriors (AKA 'Bows) of the University of Hawai'i. Our web application allows UHM students to create listings for textbooks, as well as view all available listings for textbooks. 
 
-
+Often times, the shopping for textbook can be confusing, difficult, and frustrating. Our app tries to address these concerns by providing a convenient marketplace that connects buyers and sellers, as well as providing course information for each textbook.  
 
 
 Call Me Buttah, Because I'm On A Role: 
