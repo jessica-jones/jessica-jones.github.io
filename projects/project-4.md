@@ -48,7 +48,9 @@ I also had a hand in creating the user profile page, as well as some of the defa
 
 What did I learn?  
 ---
-Overall, I had so much fun working with my teammates. Two of them are also my coworkers; it's reassuring that we can work together under pressure! Through this project, I am grateful for the opportunity to learn. Not only did I have to code things outside my comfort zone, I also experimented with new features on Github that streamlined the collaborative effort that was our project. It was exciting to put my Adobe membership to use by taking on the responsibility of creating the artwork for our website. 
+The best part was being able to put my Adobe subscription to use! I'm kidding of course. Overall, I had so much fun working with my teammates. Two of them are also my coworkers; it's reassuring that we can work together under pressure! Through this project, I am grateful for the opportunity to learn. Not only did I have to code things outside my comfort zone, I also experimented with new features on Github that streamlined the collaborative effort that was our project. I think our cute little Books for Bows is a great start to a future of Software Engineering. 
+
+
 
 <img class="ui medium right floated rounded image" src="../images/b4b-welcome-bb.png">
 
