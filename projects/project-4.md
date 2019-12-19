@@ -23,13 +23,13 @@ A Bit About Books for Bows
 
 Books for Bows is a marketplace for University of Hawai’i students to buy and sell textbooks. We are "Books for Bows" because we serve the Rainbow Warriors (AKA 'Bows) of the University of Hawai'i. Our web application allows UHM students to create and edit their own listings for textbooks, as well as browse through a marketplace of textbooks and compare listings. 
 
-Often times, shopping for textbooks can be confusing, difficult, and frustrating. Our app tries to address these concerns by providing a convenient marketplace that connects buyers and sellers, as well as providing course information for each textbook.  
+Often times, shopping for textbooks can be confusing, difficult, and frustrating. Our app addresses these concerns by providing a convenient marketplace that connects buyers and sellers, as well as providing course information for each textbook.  
 
 
 Call Me Buttah, Because I'm On A Role: 
 ---
 
-The most significant role I had in this project was the design of the Landing page, header, and footer, as well as the creation of artwork for the website. 
+I did the most heavy lifting in the designing department. I designed the Landing page, header, and footer.
 
 <img class="ui image" src="{{ site.baseurl }}/images/Landing_Favicon.png">
 <img class="ui image" src="{{ site.baseurl }}/images/landing_market.PNG">
@@ -43,12 +43,12 @@ I drew our first mockup pages, as well as the icons on the landing page, the "No
   <img class="ui image" src="../images/Shelf.png">
 </div>
 
-I also had a hand in creating the user profile page, as well as some of the default data. I also updated the [Books for Bows Information Page](https://books-for-bows.github.io/) as the project progressed. 
+I had a hand in creating the user profile page, as well as some of the default data. I also updated the [Books for Bows Information Page](https://books-for-bows.github.io/) as the project progressed. 
 
 
 What did I learn?  
 ---
-The best part was being able to put my Adobe subscription to use! I'm kidding of course. Overall, I had so much fun working with my teammates. Two of them are also my coworkers; it's reassuring that we can work together under pressure! Through this project, I am grateful for the opportunity to learn. Not only did I have to code things outside my comfort zone, I also experimented with new features on Github that streamlined the collaborative effort that was our project. I think our cute little Books for Bows is a great start to a future of Software Engineering. 
+The best part was being able to put my Adobe subscription to use! I'm kidding of course. Overall, I had so much fun working with my teammates. Two of them are also my coworkers; it's reassuring that we can work together under pressure! Through this project, I am grateful for the opportunity to learn. Not only did I have to code things outside my comfort zone, I also experimented with new features on Github that streamlined the collaborative effort that was our project. I think our cute little Books for Bows is a great start to a future of Software Engineering!
 
 
 
