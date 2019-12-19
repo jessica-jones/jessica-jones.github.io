@@ -11,7 +11,7 @@ labels:
   - Final Project 
   - Meteor
   - Galaxy
-  - Group Project
+  - Teamwork
 summary: The ultimate test of the skills we learned during the Fall 2019 Semester of ICS 314. My team and I introduced Books for Bows, a marketplace for UH students to buy and sell their textbooks, to the world. 
 ---
 
