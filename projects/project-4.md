@@ -19,7 +19,7 @@ summary: The ultimate test of the skills we learned during the Fall 2019 Semeste
 
 A Bit About Books for Bows
 ---
-<img class="ui medium right floated rounded image" src="../images/b4b-welcome-bb.png">
+<img class="ui medium right floated rounded image" src="../images/icon.png">
 
 Books for Bows is a marketplace for University of Hawai’i students to buy and sell textbooks. We are "Books for Bows" because we serve the Rainbow Warriors (AKA 'Bows) of the University of Hawai'i. Our web application allows UHM students to create listings for textbooks, as well as view all available listings for textbooks. 
 
@@ -49,7 +49,7 @@ I had a hand in creating some of the default data, as well as updating the [Book
 
 What did I learn?  
 ---
-<img class="ui medium right floated rounded image" src="../images/b4b-stacks.png">
+<img class="ui medium right floated rounded image" src="../images/b4b-welcome-bb.png">
 
 
 
