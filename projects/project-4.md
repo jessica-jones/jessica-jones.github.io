@@ -32,10 +32,20 @@ Often times, the shopping for textbook can be confusing, difficult, and frustrat
 
 Call Me Buttah, Because I'm On A Role: 
 ---
-<img class="ui small left floated rounded image" src="../images/b4b-marketplace2.png">
+
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/icon.png">
+  <img class="ui image" src="../images/b4b-welcome-bb.png">
+  <img class="ui image" src="../images/b4b-marketplace2.png">
+  <img class="ui image" src="../images/b4b-scale.png">
+  <img class="ui image" src="../images/b4b-stacks.png">
+  <img class="ui image" src="../images/b4b_no_cover_available.png">
+</div>
+
+The most significant role I had in this project was the design of the Landing page, header, and footer, as well as the creation of artwork for the website. I drew all the icons on the landing page, as well as the icon and favicon. 
 
 
-
+I had a hand in creating some of the default data, as well as updating the [Books for Bows Information Page](https://books-for-bows.github.io/) as the project progressed. 
 
 What did I learn?  
 ---
