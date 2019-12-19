@@ -9,7 +9,7 @@ labels:
   - UI Frameworks
   - Modern Art 
 ---
-Hot Talke About Learning Semantic UI through the Framework of the Elitism? of Modern Art and Cinema 
+Hot Take About Learning Semantic UI through the Framework of the Elitism? of Modern Art and Cinema 
 
 
 A User-Interface (UI) framework is a tool that provides the structure/template for constructing complex applications without extensive technical or design skills. There are many reasons why someone would want to use one of them…
@@ -27,7 +27,7 @@ Even earlier this week, there was hubbub around Martin Scorsese’s [view of the
 
 Pop Art Stop Art 
 ---
-One concern my classmate have with learning to use Semantic UI is that it takes a lot of time to learn. Helpful as it is, there is a lot of documentation to go through. In their eyes, mastering Semantic is not a necessary skill. You can make a fully functional webpage without it. In fact, the changes you make to your website don't necessarily make it stand out - it follows the format and uses the same things as just about any other website. Why put all this time and effort into something you don't really need, and aren't planning on using in the future? I think that it's a fair question to ask; should you be expected to know or be good at everything concerning software development?
+One concern my classmates have with learning to use Semantic UI is that it takes a lot of time to learn. Helpful as it is, there is a lot of documentation to go through. In their eyes, mastering Semantic is not a necessary skill. You can make a fully functional webpage without it. In fact, the changes you make to your website don't necessarily make it stand out - it follows the format and uses the same things as just about any other website. Why put all this time and effort into something you don't really need, and aren't planning on using in the future? I think that it's a fair question to ask; should you be expected to know or be good at everything concerning software development?
  
 I think by examining the concerns my classmates have, we can better understand their perspectives and where their priorities lie. I thought maybe they didn't like Semantic UI because it was unfamiliar or difficult to use. But then I realized; there are a lot of basic apps and programs that these people run with ugliness and poor documentation. I think my classmates are focused on practicality; they incorporate tools that work/don't NEED to be pretty. They want to focus on the problem itself. 
 
@@ -44,7 +44,7 @@ The substance is most important I think; if everything looks the same anyway, th
 
 Choosing to Suck
 ---
-I think technology and people go hand in hand; I think it’s generally helpful to learn to consider the people using the technology you create. I think the foundation should be good content; using Semantic UI or another UI Framework to dress it up is a bonus but vital in this day and age.
+I think technology and people go hand in hand; I think it’s generally helpful to learn to consider the people using the technology you create. I think the foundation should be good content; using Semantic UI or another UI Framework to dress it up is a bonus, but vital in this day and age.
 
 I think my classmates are right, in a way. There’s no need to make it out to be more than it is. It’s fine if it’s just a way of giving their plain html a makeover.  
 
@@ -54,4 +54,5 @@ I think this quote from Homeland by Cory Doctorow is apt. The main character is 
 
 > “Her reality might suck too, but it sucked in huge, showy, neon letters—not in the quiet, crabbed handwriting of a desperate and broke teenager scribbling in his diary.” 
 
-If you are going to suffer making a website, you might as well take it all the way and use Semantic UI to make it huge, showy, and neon, as opposed to quiet and crabbed. 
+If you are going to suffer making a website, you might as well take it all the way and use Semantic UI to make it huge, showy, and neon, as opposed to quiet and crabbed.
+
