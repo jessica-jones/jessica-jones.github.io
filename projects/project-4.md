@@ -36,10 +36,11 @@ The most significant role I had in this project was the design of the Landing pa
 <img class="ui image" src="{{ site.baseurl }}/images/landing_list.PNG">
 <img class="ui image" src="{{ site.baseurl }}/images/landing_stack.PNG">
 
-I drew all the icons on the landing page, as well as the "No Cover Available" image and the icon (and by extension, the favicon). 
-<div class="ui medium rounded images">
-  <img class="ui image" src="../images/b4b-marketplace2.png">
+I drew our first mockup pages, as well as the icons on the landing page, the "No Cover Available" image, and the icon (and by extension, the favicon). 
+<div class="ui small rounded images">
   <img class="ui image" src="../images/b4b_no_cover_available.png">
+  <img class="ui image" src="../images/b4b-marketplace2.png">
+  <img class="ui image" src="../images/Shelf.png">
 </div>
 
 I also had a hand in creating the user profile page, as well as some of the default data. I also updated the [Books for Bows Information Page](https://books-for-bows.github.io/) as the project progressed. 
