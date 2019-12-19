@@ -30,7 +30,7 @@ ___
 
 A: First off, "Question" A isn't even a question! It sounds like a google search - the author could just copy and paste it. It sounds like something that would require you to ask a question for clarification. It sounds like extra work on your part, if you choose to accept it. 
 
-B: Right off the bat, B hits us with a specific question, which I think makes it seem more approachable because you know what to do with this inquiry. The structure of B's title stears you to a future answer such as “processing a sorted array is faster because…”. You already know if your efforts are going to be worth anything because you can measure if you've answered the question. It is definitely getting off on the right foot!  
+B: Right off the bat, B hits us with a specific question, which I think makes it seem more approachable because you know what to do with this inquiry. The structure of B's title steers you to a future answer such as “processing a sorted array is faster because…”. You already know if your efforts are going to be worth anything because you can measure if you've answered the question. You are definitely getting off on the right foot!  
 
 Bio or Goodbye? 
 ---
@@ -143,23 +143,4 @@ Verdict:
 ---
 Is it really a comparison? I think B is one to theoretically swipe right on. It's the smarter question because; it asks a specific, meaningful question with context and background research. It's the smarter question because it respects its audience. 
 
-When you don't have the ability to talk to the person behind the bio, behind the picture, behind the question, you will only be able to analyse them by the pieces of information they release to the world. The construction of the question becomes the data by which you judge the person - and decide if you want to give them a moment of your hard earned time and expertise. 
-
-
-If anything, you can take a page from Eli the Computer Guy's playbook and just default to an equally contextless answer: 
-
-<img class="ui image" src="{{ site.baseurl }}/images/ButterBrickle.PNG">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+When you don't have the ability to talk to the person behind the bio, behind the picture, behind the question, you will only be able to analyze them by the pieces of information they release to the world. The construction of the question becomes the data by which you judge the person - and decide if you want to give them a moment of your hard-earned time and expertise. 
