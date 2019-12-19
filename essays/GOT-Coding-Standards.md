@@ -25,14 +25,14 @@ Indication of Quality/Effort
 A huge complaint from fans is that Dan and Dave rushed the last season of GOT; they were trying to cram so many events into one episode, that the audience didn’t feel the weight of each event. For example, in the first episode, Jon rode Rhaegal – something that has huge significance, but the viewers are not given time to appreciate this event because it comes halfway through an episode where: Jon reunites with Bran and Arya, Theon rescues Yara, the golden company comes to Westeros, Ned Umber is killed by the white walkers, Jaime Lannister turns up at Winterfell and confronts Bran, and Jon learns that he is actually Aegon Targaryen. Compared to the moment when Daenerys first flew with Drogon, which was the climax of a ten-minute scene, Jon’s first flight falls flat. Created a precedent for themselves because of how the events were paced in the previous seasons. 
 
 
-Not adhering to coding standards can make your code appear low quality. It can be a sign that you rushed the job or didn’t put a lot of effort in either the code itself or in being part of a team. Additionally, it dececreases your credibility as writer/producer or software engineer. 
+Not adhering to coding standards can make your code appear low quality. It can be a sign that you rushed the job or didn’t put a lot of effort in either the code itself or in being part of a team. Additionally, it decreases your credibility as writer/producer or software engineer. 
 
 Documentation 
 ---
-One thing that Dan and Dave got right was that they documented some of the creation of the show. After each episode, they release a [behind the scenes video](https://www.youtube.com/watch?v=RQ9QQMXTftY&t=1s), which documents some of the creative decisions they took, as well as the craftsmanship that it took to make the episode. While many fans disagree at least they can try to understand how Dan and Dave are approached this project, at least they started commentary to help keep you enganged. 
+One thing that Dan and Dave got right was that they documented some of the creation of the show. After each episode, they release a [behind the scenes video](https://www.youtube.com/watch?v=RQ9QQMXTftY&t=1s), which documents some of the creative decisions they took, as well as the craftsmanship that it took to make the episode. While many fans disagree at least they can try to understand how Dan and Dave are approached this project, at least they started commentary to help keep you engaged. 
 
 
-It is important for you to document what you did so that people are able to understand your code later on. 
+Documentation is helpful, especially when you or someone else is revisiting your previous work in the future. 
 
 Tools 
 ---
@@ -47,6 +47,3 @@ I think one of the biggest things Dan and Dave forgot to consider was the life a
 When writing code, one of the things you should consider is if your code stands the test of time. A couple of months from now, will you be able to understand the code you wrote? Are other people going to be able to easily read and understand it? Is this something people will be able to build upon or use in the future? Is there effort reflected in the final product? 
 
 If anything, take solace in the fact that your code wasn't bad enough someone created a [petition]( https://www.change.org/p/hbo-remake-game-of-thrones-season-8-with-competent-writers). 
-
-
-
