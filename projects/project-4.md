@@ -37,10 +37,8 @@ The most significant role I had in this project was the design of the Landing pa
 <img class="ui image" src="{{ site.baseurl }}/images/landing_stack.PNG">
 
 I drew all the icons on the landing page, as well as the "No Cover Available" image and the icon (and by extension, the favicon). 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/b4b-marketplace2.png">
-  <img class="ui image" src="../images/b4b-scale.png">
-  <img class="ui image" src="../images/b4b-stacks.png">
   <img class="ui image" src="../images/b4b_no_cover_available.png">
 </div>
 
@@ -49,6 +47,10 @@ I had a hand in creating some of the default data, as well as updating the [Book
 
 What did I learn?  
 ---
+
+
+
+
 <img class="ui medium right floated rounded image" src="../images/b4b-welcome-bb.png">
 
 
