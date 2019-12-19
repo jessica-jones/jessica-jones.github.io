@@ -17,13 +17,9 @@ summary: The ultimate test of the skills we learned during the Fall 2019 Semeste
 
 <img class="ui image" src="{{ site.baseurl }}/images/Landing_Favicon.png">
 
-<img class="ui medium image" src="../images/b4b-welcome-bb.png">
-<img class="ui medium image" src="../images/Landing_Favicon.png">
-
-
 A Bit About Books for Bows
 ---
-<img class="ui medium right floated rounded image" src="../images/Landing_Favicon.png">
+<img class="ui medium right floated rounded image" src="../images/b4b-welcome-bb.png">
 
 Books for Bows is a marketplace for University of Hawai’i students to buy and sell textbooks. We are "Books for Bows" because we serve the Rainbow Warriors (AKA 'Bows) of the University of Hawai'i. Our web application allows UHM students to create listings for textbooks, as well as view all available listings for textbooks. 
 
@@ -34,18 +30,17 @@ Call Me Buttah, Because I'm On A Role:
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/icon.png">
-  <img class="ui image" src="../images/b4b-welcome-bb.png">
   <img class="ui image" src="../images/b4b-marketplace2.png">
   <img class="ui image" src="../images/b4b-scale.png">
   <img class="ui image" src="../images/b4b-stacks.png">
   <img class="ui image" src="../images/b4b_no_cover_available.png">
 </div>
 
-The most significant role I had in this project was the design of the Landing page, header, and footer, as well as the creation of artwork for the website. I drew all the icons on the landing page, as well as the icon and favicon. 
+The most significant role I had in this project was the design of the Landing page, header, and footer, as well as the creation of artwork for the website. I drew all the icons on the landing page, as well as the "No Cover Available" image and the icon (and by extension, the favicon). 
 
 
 I had a hand in creating some of the default data, as well as updating the [Books for Bows Information Page](https://books-for-bows.github.io/) as the project progressed. 
+
 
 What did I learn?  
 ---
