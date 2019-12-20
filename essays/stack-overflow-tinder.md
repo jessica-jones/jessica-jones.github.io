@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Stack Overflow Tinder: A Tango with Smart Questions
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-12
+date: 2019-12-18
 labels:
   - Smart Questions
   - Stack Overflow
