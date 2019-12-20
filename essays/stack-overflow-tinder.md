@@ -1,4 +1,4 @@
----
+```
 layout: essay
 type: essay
 title: Stack Overflow Tinder: A Tango with Smart Questions
@@ -8,7 +8,7 @@ labels:
   - Smart Questions
   - Stack Overflow
   - Tinder
----
+```
 
 What is a smart question? I think we intuitively know the answer; if I showed you two questions, you could probably tell me which one was smart and which one was more ... intellectually simple. 
 
