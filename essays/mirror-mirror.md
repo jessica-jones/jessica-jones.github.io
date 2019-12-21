@@ -8,32 +8,10 @@ labels:
   - Reflection
 ---
 
-Overview:
----
+### Ethics 
 
-### Problem:
+
   
 
-### Solution:
-
-  
- 
- Approach:
- ---
- 
- ### Mockup: 
- 
-* 
-
-Use case ideas:
----
-
-*  
-* 
-* 
-
-
-Beyond the basics:
----
 
 
